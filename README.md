@@ -23,4 +23,3 @@ sudo docker compose -f "docker-compose.yml" down && docker compose -f "docker-co
 ````
 ./mvnw spring-boot:run -Dspring-boot.run.jvmArguments="-DDB_HOSTNAME=db_mysql -DDB_PORT=3306 -DDB_NAME=abc_tech -DDB_USERNAME=root -DDB_PASSWORD=Fiap1234"
 ````
-# docker_db_abc_tech_app_11aojo
