@@ -19,7 +19,31 @@ docker exec -it api bash
 ````
 sudo docker compose -f "docker-compose.yml" down && docker compose -f "docker-compose.yml" up -d --build
 ````
+
+### Comandos básicos MYSQL
+````
+mysql -uroot -pFiap1234;
+show databases;
+show tables;
+````
+
+### Comandos básicos sql
+````
+USE abc_tech;
+select * from assistances;
+select * from flyway_schema_history;
+select * from order_location;
+select * from orders;
+select * from orders_assists;
+````
+
 ### ENV
 ````
 ./mvnw spring-boot:run -Dspring-boot.run.jvmArguments="-DDB_HOSTNAME=db_mysql -DDB_PORT=3306 -DDB_NAME=abc_tech -DDB_USERNAME=root -DDB_PASSWORD=Fiap1234"
+````
+
+
+### Amazon RDS
+````
+Utilizando Mysql
 ````
