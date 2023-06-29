@@ -5,6 +5,10 @@
 
 [app Flutter](https://github.com/FranciscoWallison/abc_tech_app_11aojo)
 
+## Foi utilizado AWS
+#### Pipe
+![image3](https://github.com/FranciscoWallison/docker_db_abc_tech_app_11aojo/assets/19413241/c8740795-b7f4-488a-84ab-9809f701ae72)
+
 
 _______________________________________________________________________________
 ### [mvnrepository](https://mvnrepository.com/)
